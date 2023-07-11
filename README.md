@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 Tiny mini jr. python developer<br>
+🌱 Tiny mini jr. backend developer<br>
 
 
 ## 🌐 Socials:
