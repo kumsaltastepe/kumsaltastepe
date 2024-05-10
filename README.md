@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Hi! I'm Kumsal, a tiny miny wannabe Full-stack Developer:
 🔭 I’m currently working on Web3 and Blockchain development<br>👯 I’m looking to collaborate on Web3 and Blockchain related areas<br>🌱 I’m currently learning Solidity and Rust<br>💬 Ask me about anything<br>⚡ Fun fact: I'm actually a Gastronomy and Culinary Arts major
 
 
